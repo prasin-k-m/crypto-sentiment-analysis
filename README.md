@@ -96,7 +96,7 @@ Market sentiment influences trading performance, but it does not fully determine
 ---
 
 ## 📂 Project Structure
-
+```
 crypto-sentiment-analysis/
 │
 ├── data/
@@ -105,7 +105,7 @@ crypto-sentiment-analysis/
 │
 ├── notebook.ipynb
 └── README.md
-
+```
 ---
 
 ## 👤 Author
