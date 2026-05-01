@@ -96,3 +96,19 @@ Market sentiment influences trading performance, but it does not fully determine
 ---
 
 ## 📂 Project Structure
+
+crypto-sentiment-analysis/
+│
+├── data/
+│   ├── fear_greed_index.csv
+│   └── historical_data.csv
+│
+├── notebook.ipynb
+└── README.md
+
+---
+
+## 👤 Author
+
+**Prasin K M**  
+Data Science Intern | Aspiring AI/ML Engineer
