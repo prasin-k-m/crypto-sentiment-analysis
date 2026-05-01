@@ -1,4 +1,5 @@
 📊 Crypto Market Sentiment vs Trader Performance Analysis
+
 🧠 Project Overview
 
 This project analyzes the relationship between Bitcoin market sentiment (Fear & Greed Index) and trader performance using historical trading data.
@@ -6,12 +7,15 @@ This project analyzes the relationship between Bitcoin market sentiment (Fear & 
 The objective is to uncover patterns in trading behavior and profitability under different market sentiment conditions, and to derive insights that can support smarter trading decisions.
 
 📁 Datasets Used
+
 1. Bitcoin Market Sentiment Dataset
 Columns:
+
 date
 classification (Extreme Fear, Fear, Neutral, Greed, Extreme Greed)
 value (sentiment score)
-2. Historical Trader Data
+
+3. Historical Trader Data
 Columns include:
 Account
 Coin
@@ -21,7 +25,9 @@ Side
 Timestamp IST
 Closed PnL
 Additional transaction-level details
+
 ⚙️ Methodology
+
 🔹 Data Preprocessing
 Converted timestamp columns to datetime format
 Extracted date for alignment across datasets
